@@ -1,0 +1,5 @@
+xyz|xyz
+xyz3[ab]|xyzababab
+3[xyz]4[xy]z|xyzxyzxyzxyxyxyxyz
+2[3[x]y]|xxxyxxxy
+2[a3[bcd3[a4[d]]xaz]a]abd|abcdaddddaddddaddddxazbcdaddddaddddaddddxazbcdaddddaddddaddddxazaabcdaddddaddddaddddxazbcdaddddaddddaddddxazbcdaddddaddddaddddxazaabd
